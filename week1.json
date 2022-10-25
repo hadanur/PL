@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "date": "2017-08-11",
+          "team1": "Arsenal FC",
+          "team2": "Leicester City FC",
+          "score": {
+            "ft": [
+              4,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Watford FC",
+          "team2": "Liverpool FC",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "West Bromwich Albion FC",
+          "team2": "AFC Bournemouth",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Chelsea FC",
+          "team2": "Burnley FC",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Brighton & Hove Albion FC",
+          "team2": "Manchester City FC",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Southampton FC",
+          "team2": "Swansea City FC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Everton FC",
+          "team2": "Stoke City FC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-08-12",
+          "team1": "Crystal Palace FC",
+          "team2": "Huddersfield Town AFC",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-08-13",
+          "team1": "Manchester United FC",
+          "team2": "West Ham United FC",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-08-13",
+          "team1": "Newcastle United FC",
+          "team2": "Tottenham Hotspur FC",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        }
+      ]
+    }
+  ]
