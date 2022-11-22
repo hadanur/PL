@@ -1,0 +1,46 @@
+{
+  "messages": [
+    {
+    "name": "Bill Gates",
+    "message": "Nerdesin?",
+    "time": "14:25",
+    "messageCount": "2"
+    },
+     {
+    "name": "Elon Musk",
+    "message": "Tamam",
+    "time": "14:54",
+    "messageCount": "1"
+    },
+     {
+    "name": "Fatih Terim",
+    "message": "4'te ordayım",
+    "time": "15:23",
+    "messageCount": "1"
+    },
+     {
+    "name": "Fernando Muslera",
+    "message": "Anahtar dolapta",
+    "time": "15:35",
+    "messageCount": "1"
+    },
+     {
+    "name": "Mauro Icardi",
+    "message": "Ok",
+    "time": "13:15",
+    "messageCount": "0"
+    },
+     {
+    "name": "Bafetimbi Gomis",
+    "message": "Tamam",
+    "time": "14:05",
+    "messageCount": "0"
+    },
+     {
+    "name": "Sacha Boey",
+    "message": "Naber",
+    "time": "12:21",
+    "messageCount": "0"
+    }
+  ]
+}
